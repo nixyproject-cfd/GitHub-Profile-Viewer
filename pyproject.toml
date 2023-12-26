@@ -24,7 +24,7 @@ dev = [
 ]
 
 [project.urls]
-Source = "https://github.com/nixyproject-cfd/stat-gh"
+Source = "https://github.com/nixyproject-cfd/GitHub-Profile-Viewer"
 
 [tool.black]
 line-length = 120
