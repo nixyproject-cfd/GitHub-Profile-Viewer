@@ -24,7 +24,7 @@ dev = [
 ]
 
 [project.urls]
-Source = "https://github.com/marcorichetta/fastapi-vercel"
+Source = "https://github.com/nixyproject-cfd/stat-gh"
 
 [tool.black]
 line-length = 120
